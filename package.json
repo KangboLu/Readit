@@ -1,0 +1,25 @@
+{
+  "name": "Readit",
+  "version": "1.0.0",
+  "description": "Master Electron Course Project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/KangboLu/Readit",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Kangbo Lu",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "electron-reload": "^1.2.1",
+    "jquery": "^3.2.1",
+    "query-string": "^4.3.4"
+  }
+}
